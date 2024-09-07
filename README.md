@@ -29,8 +29,8 @@ The Document Q&A Application is a Streamlit-based web application that allows us
 
 1. Clone the repository:
    ```
-   git clone https://github.com/rampal-punia/document-qa-app.git
-   cd document-qa-app
+   git clone https://github.com/rampal-punia/rag-app.git
+   cd rag-app
    ```
 
 2. Create a virtual environment and activate it:
@@ -68,7 +68,7 @@ The Document Q&A Application is a Streamlit-based web application that allows us
 ## Project Structure
 
 ```
-document-qa-app/
+rag-app/
 ├── app.py                 # Main Streamlit application
 ├── configure_llm.py       # LLM configuration and chain building
 ├── loader.py              # Document processing and vector store management
@@ -123,6 +123,7 @@ This project is intended as a learning exercise and demonstration of integrating
 
 - Sreamlit
 - LangChain
+- chromadb
 - Hugging Face Endpoint APIs
 
 Please note that this application is not designed or tested for production use. It serves as an educational resource and a showcase of technology integration rather than a production-ready web application.
