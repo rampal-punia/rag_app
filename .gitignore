@@ -136,7 +136,7 @@ logs/
 file_name_converter.ipynb
 
 # Ignore everything in the media folder
-media/*
+# media/*
 
 # But don't ignore default.png
 !media/default.png

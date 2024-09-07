@@ -29,7 +29,7 @@ The Document Q&A Application is a Streamlit-based web application that allows us
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/document-qa-app.git
+   git clone https://github.com/rampal-punia/document-qa-app.git
    cd document-qa-app
    ```
 
